@@ -13,3 +13,6 @@ Accounting major with a passion for leveraging data science and analytics to dri
 ### Technical Skills 🛠️
 - **Languages:** Python, Pandas, R, Excel
 
+### Portfolios & Projects
+- 
+
