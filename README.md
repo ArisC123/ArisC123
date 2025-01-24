@@ -14,5 +14,5 @@ Accounting major with a passion for leveraging data science and analytics to dri
 - **Languages:** Python, Pandas, R, Excel
 
 ### Portfolios & Projects
-- 
+- [Data Science Portfolio](https://github.com/ArisC123/Cardoso-Data-Science-Portfolio)
 
