@@ -17,3 +17,4 @@ Accounting major with a passion for leveraging data science and analytics to dri
 My current projects this semester will be focused on implementing different data science tools and concepts with real world data to tell different stories
 - **Portfolio:** [Data Science Portfolio](https://github.com/ArisC123/Cardoso-Data-Science-Portfolio)
 
+### Goals
