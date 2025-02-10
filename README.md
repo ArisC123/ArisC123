@@ -13,8 +13,11 @@ Accounting major with a passion for leveraging data science and analytics to dri
 ### Technical Skills 🛠️
 - **Languages:** Python, Pandas, R, Excel
 
-### Portfolios & Projects
+### Portfolios & Projects 📊
 My current projects this semester will be focused on implementing different data science tools and concepts with real world data to tell different stories
 - **Portfolio:** [Data Science Portfolio](https://github.com/ArisC123/Cardoso-Data-Science-Portfolio)
 
-### Goals
+### Goals 📈
+- Develop python proficiency
+- Learn new libraries
+- Explore data science tools
