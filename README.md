@@ -4,7 +4,7 @@
 
 📍 **Boston**  
 📚  **University of Notre Dame**  
-🔗 **LinkedIn:** [Aris Cardoso](www.linkedin.com/in/aris-cardoso)  
+🔗 **LinkedIn:** [Aris Cardoso](https://linkedin.com/in/aris-cardoso)  
 👨‍💻 **GitHub:** [ArisC123](https://github.com/ArisC123)  
 
 ### Bio 🌐
